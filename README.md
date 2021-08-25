@@ -1,1 +1,1 @@
-# this is a test project. New to Github & trying things out - not much to describe :).
+# this is a test project - new to Github & trying things out
